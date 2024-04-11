@@ -19,7 +19,7 @@ function App() {
         </a>
         <h1>Hello Alkaly</h1>
         <p>This page is edited</p>
-        {/* <p>Setup webhook</p> */}
+        <p>Setup webhook</p>
       </header>
     </div>
   );
